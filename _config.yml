@@ -1,14 +1,14 @@
-layout_spectrum: 0.6037790710106492
-typography_spectrum: 0.302267684135586
+layout_spectrum: 0.8042305780109018
+typography_spectrum: 0.3890194788109511
 color:
-  brandStrength: 0.9382987073622644
-  lightness: 0.514186677057296
-  saturation: 0.8408785429783165
-  rhythmicContrast: 0.9570349359419197
+  brandStrength: 0.027720302809029818
+  lightness: 0.7176319980062544
+  saturation: 0.7115436182357371
+  rhythmicContrast: 0.13007974904030561
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: Many Hands
